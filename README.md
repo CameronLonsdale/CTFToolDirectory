@@ -36,6 +36,7 @@ Browser Developer tools
 [Hopper​ ​(64bit)](https://www.hopperapp.com/) - The macOS and Linux Disassembler  
 [Java Decompilers](http://www.javadecompilers.com/) - Java decompiler, many of these exist  
 [Uncompyle2](https://github.com/wibiti/uncompyle2) - Python 2.7 Decompiler  
+[x86 Instruction Set Reference](http://www.felixcloutier.com/x86/)
 
 ### Hard
 
@@ -48,10 +49,11 @@ Browser Developer tools
 ### Decryption
 
 [quipquip.com](http://quipqiup.com/) - fast and automated cryptogram solver  
-[dcode.fr](http://www.dcode.fr/) - Decoding tool  
+[dcode.fr](http://www.dcode.fr/tools-list) - Decoding tools  
 [lantern](https://github.com/CameronLonsdale/lantern) - Cryptanalysis library for breaking classical ciphers  
 [Factordb](https://factordb.com/) - Prime Factorisation  
 [Pycrypto](https://pypi.python.org/pypi/pycrypto) - Collection of hashing and encryption algorithms  
+[CyberChef](https://gchq.github.io/CyberChef/) - Recipes for data manipulation  
 
 ### Hashing
 
@@ -69,6 +71,8 @@ Browser Developer tools
 [Binwalk](https://github.com/devttys0/binwalk) - Firmware Analysis Tool  
 [Foremost](http://foremost.sourceforge.net/foremost.html) - Recover files using their headers  
 [Stegsolve](https://github.com/zardus/ctf-tools/blob/master/stegsolve/install) - Image steganography helper  
+[Audacity](http://www.audacityteam.org/) - Sound editing  
+[GIMP](https://www.gimp.org/) - GNU Image Manipulation Program  
 
 ## Forensics
 
